@@ -45,8 +45,14 @@ Reactive Streams两大核心 Mono&Flux
 
 ## 4.脚手架说明
 1.组件：Controller、Service、ReactiveFeignClient
+
 2.测试：Mockito单元测试、Webflux集成测试
+
 3.DB&Cache: 引入对应db cache的reactive依赖
+
+## 5.Webflux Operators
+![img.png](image/operator.png)
+
 
 #参考
 Reactive3 官网链接：https://projectreactor.io/docs/core/release/reference/index.html#getting-started-introducing-reactor
